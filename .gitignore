@@ -1,0 +1,12 @@
+node_modules/
+*.zip
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+*.local.bicepparam
+/bicep/*.json
+.azure/
